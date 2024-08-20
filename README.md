@@ -52,11 +52,23 @@ React Testing Library - For testing React components.
 
 ## Project Setup
 
+Project directory:
+
+- Visit the live application and view the code: : https://codesandbox.io/p/devbox/moo-product-configurator-forked-f6pw47
+  or
+- Access the code from the repository: https://github.com/SooryaSoorya/moo-product-configurator1.git
+
+```bash
+git clone https://github.com/SooryaSoorya/moo-product-configurator1.git
+```
+
+````
+
 ### Prerequisites
 
 Before running this project, Ensure that you have the following installed:
 
-Node.js (version 14.x or later)  
+Node.js (version 14.x or later)
 npm (version 6.x or later)
 
 ## Running the application
@@ -67,7 +79,7 @@ Navigate to the project directory:: https://codesandbox.io/p/devbox/moo-product-
 
 ```bash
 npm install
-```
+````
 
 ### Project Configuration
 
