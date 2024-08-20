@@ -20,6 +20,14 @@
       "preview": {
         "port": 5173
       }
+    },
+    "Run test": {
+      "name": "Run test",
+      "command": "pnpm test",
+      "runAtStart": true,
+      "preview": {
+        "port": 5172
+      }
     }
   }
 }
